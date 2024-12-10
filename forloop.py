@@ -14,7 +14,7 @@ for india in range(1,6):  # show output 1,2,3,4,5
     print("iccp")
     print()
 
-for india in range(1,11):  # show output 1,2,3,4,5
+for india in range(1,11):  # show output 1,2,3,4,6
         print("iccp")
 
 for india in range(1,11):  # show output 1,2,3,4,5
